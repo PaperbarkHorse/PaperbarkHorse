@@ -1,9 +1,9 @@
 <div align="center">
   <h1>
-    <a href="https://quasar.dog">
-      <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/quasar-pizza.png" style="width: 300px;">
+    <a href="https://paperbark.horse">
+      <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/paperbark-polaroid.png" style="width: 300px;">
       <br>
-      <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/logo-text.svg" style="width: 250px;">
+      <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/paperbark-title.svg" style="width: 350px;">
     </a>
   </h1>
 </div>
@@ -47,6 +47,10 @@
   <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Blinkies/i-heart-pizza-hut.gif">
   <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Blinkies/asexual-pride.gif">
   <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Blinkies/minecraft-vegetarian.gif">
+</div>
+<br>
+<div align="center">
+  <a href="https://paperbark.horse/blinkies">View my entire collection of blinkies!</a>
 </div>
 <br>
 <div align="center">
