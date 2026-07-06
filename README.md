@@ -1,9 +1,9 @@
 <div align="center">
   <h1>
     <a href="https://paperbark.horse">
-      <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/paperbark-polaroid.png" style="width: 300px;">
+      <img src="https://github.com/PaperbarkHorse/PaperbarkHorse/blob/main/Assets/paperbark-polaroid.png" style="width: 300px;">
       <br>
-      <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/paperbark-title.svg" style="width: 350px;">
+      <img src="https://github.com/PaperbarkHorse/PaperbarkHorse/blob/main/Assets/paperbark-title.svg" style="width: 350px;">
     </a>
   </h1>
 </div>
@@ -31,22 +31,22 @@
 <h2></h2>
 
 <div align="center">
-  <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/vinyl-bop.gif" style="width: 150px;">
+  <img src="https://github.com/PaperbarkHorse/PaperbarkHorse/blob/main/Assets/vinyl-bop.gif" style="width: 150px;">
 </div>
 <p align="center">Vinyl Scratch is best pony &lt;3</p>
 
 <div align="center">
-  <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Stamps/vinyl-scratch.png">
-  <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Stamps/derpy.png">
-  <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Stamps/everypony-best-pony.gif">
-  <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Stamps/mlp-mane-six.gif">
-  <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Stamps/antonymph.gif">
+  <img src="https://github.com/PaperbarkHorse/PaperbarkHorse/blob/main/Assets/Stamps/vinyl-scratch.png">
+  <img src="https://github.com/PaperbarkHorse/PaperbarkHorse/blob/main/Assets/Stamps/derpy.png">
+  <img src="https://github.com/PaperbarkHorse/PaperbarkHorse/blob/main/Assets/Stamps/everypony-best-pony.gif">
+  <img src="https://github.com/PaperbarkHorse/PaperbarkHorse/blob/main/Assets/Stamps/mlp-mane-six.gif">
+  <img src="https://github.com/PaperbarkHorse/PaperbarkHorse/blob/main/Assets/Stamps/antonymph.gif">
 </div>
 
 <div align="center">
-  <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Blinkies/i-heart-pizza-hut.gif">
-  <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Blinkies/asexual-pride.gif">
-  <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Blinkies/minecraft-vegetarian.gif">
+  <img src="https://github.com/PaperbarkHorse/PaperbarkHorse/blob/main/Assets/Blinkies/i-heart-pizza-hut.gif">
+  <img src="https://github.com/PaperbarkHorse/PaperbarkHorse/blob/main/Assets/Blinkies/asexual-pride.gif">
+  <img src="https://github.com/PaperbarkHorse/PaperbarkHorse/blob/main/Assets/Blinkies/minecraft-vegetarian.gif">
 </div>
 <br>
 <div align="center">
@@ -54,14 +54,14 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/Buttons/kris-where-tf-are-we.png">
+  <img src="https://github.com/PaperbarkHorse/PaperbarkHorse/blob/main/Assets/Buttons/kris-where-tf-are-we.png">
 </div>
 
 <h2></h2>
 
 <div align="center">
   <a href="https://paperbark.horse/guestbook">
-    <img align="center" src="https://github.com/QuasarHusky/QuasarHusky/blob/main/Assets/guestbook.png">
+    <img align="center" src="https://github.com/PaperbarkHorse/PaperbarkHorse/blob/main/Assets/guestbook.png">
   </a>
   <div align="center">
     <a href="https://paperbark.horse/guestbook">Leave a message in my guestbook!</a>
