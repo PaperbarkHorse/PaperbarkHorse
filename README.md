@@ -20,7 +20,7 @@
 <h2></h2>
 
 <h3 align="center">Spotted me on Pony Town?<br>Feel free to say hi!</h3>
-<p align="center">🟢 Active • 🌙 AFK • ⛔ Do not disturb<br>Boops and whispers welcome!</p>
+<p align="center">🟢 Active • 🌙 AFK • ⛔ BRB<br>Boops and whispers welcome!</p>
 <p align="center"><b>/)</b></p>
 <p align="center">I'm fairly quiet, but usually happy to chat about MLP, the ponies I've made, or <a href="https://paperbark.horse/steam">any of the games I've played</a>!</p>
 <p align="center">You're more than welcome to just sit and chill with me if you'd like, too!</p>
