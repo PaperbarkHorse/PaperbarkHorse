@@ -8,16 +8,16 @@
   </h1>
 </div>
 
-<!-- <div align="center">
-  <a href="https://api.quasarhusky.uk/link/now-playing">
-    <img src="https://api.quasarhusky.uk/widget/now-playing-img?b">
+<div align="center">
+  <a href="https://paperbark.horse#activity">
+    <img src="https://api.paperbark.horse/activity/embed">
   </a>
 </div>
 <div align="center">
-  <a href="https://paperbark.horse/lastfm">See my recent listens on last.fm!</a>
+  <a href="https://paperbark.horse">Check out my website for more stuff!</a>
 </div>
 
-<h2></h2> -->
+<h2></h2>
 
 <h3 align="center">Spotted me on Pony Town?<br>Feel free to say hi!</h3>
 <p align="center">🟢 Active • 🌙 AFK • ⛔ BRB<br>Boops and whispers welcome!</p>
