@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <a href="https://paperbark.horse#activity">
+  <a href="https://paperbark.horse">
     <img src="https://api.paperbark.horse/activity/embed">
   </a>
 </div>
