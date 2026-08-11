@@ -16,9 +16,9 @@
 
 <div align="center">
   <a href="https://paperbark.horse">
-    <img src="https://github.com/PaperbarkHorse/PaperbarkHorse/blob/main/Assets/more-to-see.png" style="width: 400px;">
+    <img src="https://github.com/PaperbarkHorse/PaperbarkHorse/blob/main/Assets/more-to-see.png" style="width: 380px;">
     <br>
-    https://paperbark.horse
+    https://paperbark.horse/
   </a>
 </div>
 
