@@ -1,20 +1,25 @@
 <div align="center">
-  <h1>
-    <a href="https://paperbark.horse">
-      <img src="https://github.com/PaperbarkHorse/PaperbarkHorse/blob/main/Assets/paperbark-polaroid.png" style="width: 300px;">
-      <br>
-      <img src="https://github.com/PaperbarkHorse/PaperbarkHorse/blob/main/Assets/paperbark-title.svg" style="width: 350px;">
-    </a>
-  </h1>
+  <a href="https://paperbark.horse">
+    <img src="https://github.com/PaperbarkHorse/PaperbarkHorse/blob/main/Assets/paperbark-polaroid.png" style="width: 300px;">
+    <br>
+    <img src="https://github.com/PaperbarkHorse/PaperbarkHorse/blob/main/Assets/paperbark-title.svg" style="width: 350px;">
+  </a>
 </div>
-
+<br>
 <div align="center">
   <a href="https://paperbark.horse">
     <img src="https://api.paperbark.horse/activity/embed">
   </a>
 </div>
+
+<h2></h2>
+
 <div align="center">
-  <a href="https://paperbark.horse">Check out my website for more stuff!</a>
+  <a href="https://paperbark.horse">
+    <img src="https://github.com/PaperbarkHorse/PaperbarkHorse/blob/main/Assets/more-to-see.png" style="width: 400px;">
+    <br>
+    https://paperbark.horse
+  </a>
 </div>
 
 <h2></h2>
